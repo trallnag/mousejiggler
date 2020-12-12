@@ -13,9 +13,11 @@ when monitoring a long operation without actually having to muck about with the 
 Installation
 ============
 
-The easiest means of installing Mouse Jiggler is using Chocolatey, although bare releases continue to be available:
+The easiest means of installing Mouse Jiggler is using Chocolatey or Scoop, although bare releases continue to be available:
 
 `choco install mouse-jiggler`
+
+`scoop install mousejiggler`
 
 Operation
 =========
